@@ -1,0 +1,12 @@
+
+
+
+class MainViewModel
+@ViewMOdelInject
+constuctor(
+    @Assisted private val savedStateHandle: SAvedStateHandle
+): ViewModel(){
+
+
+
+}
